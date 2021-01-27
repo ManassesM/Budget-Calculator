@@ -1,27 +1,39 @@
-# BudgetApp
+# Budget Calculator
+Projeto Angular com NodeJS feito com base em uma aula do YouTube. Permite calcular despesas e editar os valores posteriormente.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+## Sobre o projeto
+Budget Calculator é um site feito com Angular e NodeJS com um layout simples, moderno e intuítivo. Permite adicionar valores e gastos, também é possível alterar os valores e excluí-los. As cores dos números são dinâmicas, quando menor que 0 é mostrada vermelha e quando maior que 0 então verde. O valor no parágrafo da página é a soma de todos as notas já adicionadas. 
 
-## Development server
+Foi feito totalmente com base em uma aula do YouTube:
+https://www.youtube.com/watch?v=sU4z4Ti-8OQ
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Tecnologias Utilizadas
 
-## Code scaffolding
+- Angular
+- NodeJS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- HTML
+- SCSS
+- TS
 
-## Build
+# Como executar
+Pré requisitos:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Angular CLI
 
-## Running unit tests
+```bash
+# clonar o repositório
+git clone https://github.com/ManassesM/Budget-Calculator
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# iniciar o projeto
+ng serve
 
-## Running end-to-end tests
+# encontrar no browser
+http://localhost:4200/
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```
+# Autor 
 
-## Further help
+Manassés Moura
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+https://www.linkedin.com/in/manasses-moura/
