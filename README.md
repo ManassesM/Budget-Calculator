@@ -7,6 +7,15 @@ Budget Calculator é um site feito com Angular e NodeJS com um layout simples, m
 Foi feito totalmente com base em uma aula do YouTube:
 https://www.youtube.com/watch?v=sU4z4Ti-8OQ
 
+# Screenshots
+## Layout quando positivo
+![Valor quando positivo](https://github.com/ManassesM/Budget-Calculator/blob/main/src/assets/screenshot1.png)
+
+## Layout quando negativo
+![Valor quando negativo](https://github.com/ManassesM/Budget-Calculator/blob/main/src/assets/screenshot2.png)
+
+
+
 # Tecnologias Utilizadas
 
 - Angular
